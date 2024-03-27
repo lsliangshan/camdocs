@@ -1,4 +1,4 @@
-<table class="custom-table-sm" contenteditable>
+<table class="custom-table-sm">
   <colgroup style="width: 888px;">
     <col style="width: 38px">
     <col style="width: 20%;">
